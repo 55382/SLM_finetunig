@@ -1,6 +1,5 @@
-# README
 
-## Project: Symptom-Based Text Generation using GPT-2
+# Symptom-Based Text Generation using GPT-2
 
 ### Overview
 This project uses a GPT-2 language model to generate symptom-based text. It processes a dataset containing medical conditions and their associated symptoms, tokenizes the data, and trains a transformer model to generate relevant text.
